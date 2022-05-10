@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently **building full-stack web applications**
 
-- 🌱 I’m currently learning **the MERN stack**
+- 🌱 I am learning **the MERN stack**
 
 - 📝 My portfolio is available at [https://livstark.netlify.app/](https://livstark.netlify.app/)
 
 - 💬 Ask me about **my background in physiology and neurobiology**
 
-- 📫 How to reach me: **livstark.work@gmail.com**
+- 📫 Email me at **livstark.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
