@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my background in physiology and neurobiology**
 
-- 📫 Email me at **livstark.work@gmail.com**
+- 📫 Get in touch: **livstark.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
