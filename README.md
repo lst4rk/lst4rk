@@ -1,4 +1,4 @@
-![img]()
+![img](https://github.com/lst4rk/lst4rk/blob/552fc5ee3ac755333bff0991d8082d2b70dd4b3a/Screen%20Shot%202022-05-10%20at%208.56.10%20PM.png)
 <h1 align="center">Hi, I'm Liv</h1>
 <h3 align="center">A passionate software engineer @ 100Devs</h3>
 
