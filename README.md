@@ -1,3 +1,4 @@
+![https://imgur.com/a/0VSYLEw](https://imgur.com/a/0VSYLEw)
 <h1 align="center">Hi, I'm Liv</h1>
 <h3 align="center">A passionate software engineer @ 100Devs</h3>
 
