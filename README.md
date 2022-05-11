@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/86jpeZe)
+![img](Screen Shot 2022-05-10 at 8.14.46 PM.png)
 <h1 align="center">Hi, I'm Liv</h1>
 <h3 align="center">A passionate software engineer @ 100Devs</h3>
 
