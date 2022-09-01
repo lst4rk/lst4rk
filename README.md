@@ -1,4 +1,4 @@
-![img](https://github.com/lst4rk/lst4rk/blob/e4fadbd540e3649e839c9a7db5c150382aae10ad/Screen%20Shot%202022-05-11%20at%209.47.51%20PM.png)
+![img](https://github.com/lst4rk/lst4rk/blob/6471bbf877ff7f80d2aebccb359239c8c956fda2/sc.png)
 <!-- <h1 align="center">Hi, I'm Liv</h1> -->
 <!-- <h3 align="center">A passionate software engineer @ 100Devs</h3>
  -->
