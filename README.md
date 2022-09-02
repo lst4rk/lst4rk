@@ -4,7 +4,7 @@
  -->
 - 🔭 I’m currently **building full-stack web applications**
 
-- 🌱 I am learning **the MERN stack**
+- 🌱 I am using **the MERN stack**
 
 - 📝 My portfolio is available at [https://livstark.netlify.app/](https://livstark.netlify.app/)
 
