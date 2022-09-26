@@ -1,4 +1,4 @@
-![img](https://github.com/lst4rk/lst4rk/blob/af21e00c81d9023ae2d798744fe9883ec131d9ed/scc.jpg)
+![img](https://github.com/lst4rk/lst4rk/blob/bc8826f2f520875e7d6047ef6c9a8f6331c7e21f/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <!-- <h1 align="center">Hi, I'm Liv</h1> -->
 <!-- <h3 align="center">A passionate software engineer @ 100Devs</h3>
  -->
