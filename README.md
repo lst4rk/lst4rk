@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi, I'm Liv</h1> -->
 <!-- <h3 align="center">A passionate software engineer @ 100Devs</h3>
  -->
-- 🔭 I’m currently **building full-stack web applications**
+- 🔭 I’m currently **working on a fitness social media web application**
 
 - 🌱 I am using **the MERN stack**
 
