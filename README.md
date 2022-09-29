@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi, I'm Liv</h1> -->
 <!-- <h3 align="center">A passionate software engineer @ 100Devs</h3>
  -->
-- 🔭 I’m currently **working on a fitness social media app**
+- 🔭 I’m currently **working on a fitness social media app called *flexion***
 
 - 🌱 I am using **the MERN stack**
 
