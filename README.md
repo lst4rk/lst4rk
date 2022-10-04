@@ -7,9 +7,9 @@
  
  <p>I am a software engineer with a passion for finding efficient solutions to complex problems. My interest in solving problems developed through life science, while I was studying for my Bachelor of Science degree in Physiology and Neurobiology. Learning the intricacies of how the brain operates has inspired me to create technology that promotes health and fitness while optimizing user interactivity and efficiency. Most recently, I've been working on a fitness-focused social media app using the MERN stack. I wish to continue working with passionate teams of talented engineers to create technology that benefits its users by improving their daily health and everyday life.</p>
  
-- 🔭 I’m currently **working on a fitness social media app called *flexion***
+- 🔭 I’m currently **working on a fitness-focused social media app**
 
-- 🌱 I am using **the MERN stack**
+- 🌱 I currently work with **the MERN stack**
 
 - 📝 My portfolio is available at [https://livstark.netlify.app/](https://livstark.netlify.app/)
 
