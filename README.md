@@ -51,11 +51,4 @@
 
 <a href="http://www.github.com/lst4rk"><img src="https://activity-graph.herokuapp.com/graph?username=lst4rk&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/lst4rk/flexxion" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lst4rk&repo=flexxion&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/lst4rk/ACphotography" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lst4rk&repo=ACphotography&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/lst4rk/pondered" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lst4rk&repo=pondered&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div>
-
 </div>
