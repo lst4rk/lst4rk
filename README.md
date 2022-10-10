@@ -45,8 +45,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lst4rk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lst4rk&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/lst4rk"><img src="https://activity-graph.herokuapp.com/graph?username=lst4rk&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lst4rk&theme=onedark&dates=45D3DD&currStreakNum=DDDDDD&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
+[![lst4rk's github activity graph](https://activity-graph.herokuapp.com/graph?username=lst4rk&theme=noctis-minimus)](https://github.com/lst4rk/github-readme-activity-graph)
 
 </div>
