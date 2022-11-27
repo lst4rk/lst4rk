@@ -9,7 +9,7 @@
  
 - 🔭 I’m currently **working on a fitness-focused social media app**
 
-- 🌱 I work with **the MERN stack**
+- 🌱 I have worked with **the MERN stack** and am learning **go** right now
 
 - 📝 Check out some of my work at [https://livstark.netlify.app/](https://livstark.netlify.app/)
 
