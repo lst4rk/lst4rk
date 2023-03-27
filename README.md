@@ -5,11 +5,11 @@
  
  <h1>Hi, I'm Liv!</h1>
  
- <p>I am a software engineer with a passion for creating efficient solutions to complex problems. My interest in solving problems developed through life science while studying for my B.S. in Physiology and Neurobiology. Learning the intricacies of how the brain operates has inspired me to design and implement technology that promotes the health of its users while optimizing interactivity and efficiency. I wish to continue working with passionate teams of talented engineers to create technology that benefits its users by improving their daily health and everyday life.</p>
+ <p>I am a software engineer with a passion for creating efficient solutions to daily complex problems. My interest in solving problems developed through life science while studying for my B.S. in Physiology and Neurobiology. Learning the intricacies of how the brain operates has inspired me to design and implement technology that promotes the health of its users while optimizing interactivity and efficiency. I wish to continue working with passionate teams of talented engineers to create technology that benefits its users by improving their daily health and everyday life.</p>
  
-- 🔭 I’m currently **working on a fitness-focused social media app**
+- 🔭 I’m currently **brainstorming a new project to build**
 
-- 🌱 I have worked with **the MERN stack** and am learning **go** right now
+- 🌱 I have worked with **the MERN stack** and am currently working with **golang** right now
 
 - 📝 Check out some of my work at [https://livstark.netlify.app/](https://livstark.netlify.app/)
 
