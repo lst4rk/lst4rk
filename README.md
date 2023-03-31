@@ -46,6 +46,5 @@
 <b>My GitHub Stats</b>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lst4rk&theme=onedark&dates=45D3DD&currStreakNum=DDDDDD&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
-[![lst4rk's github activity graph](https://activity-graph.herokuapp.com/graph?username=lst4rk&theme=noctis-minimus)](https://github.com/lst4rk/github-readme-activity-graph)
 
 </div>
