@@ -7,9 +7,9 @@
  
  <p>I am a software engineer with a passion for creating efficient solutions to daily complex problems. My interest in solving problems developed through life science while studying for my B.S. in Physiology and Neurobiology. Learning the intricacies of how the brain operates has inspired me to design and implement technology that promotes the health of its users while optimizing interactivity and efficiency. I wish to continue working with passionate teams of talented engineers to create technology that benefits its users by improving their daily health and everyday life.</p>
  
-- 🔭 I’m currently **brainstorming a new project to build**
+- 🔭 I’m currently **working on a ruby on rails project**
 
-- 🌱 I have worked with **the MERN stack** and am currently working with **golang** right now
+- 🌱 While **golang** has been my favorite language to work with so far, I have worked with **the MERN stack** and am getting aquainted with **ruby on rails** right now
 
 - 📝 Check out some of my work at [https://livstark.netlify.app/](https://livstark.netlify.app/)
 
