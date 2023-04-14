@@ -11,7 +11,7 @@
 
 - 🌱 While **golang** has been my favorite language to work with so far, I have worked with **the MERN stack** and am getting aquainted with **ruby on rails** right now
 
-- 📝 Check out some of my work at [https://livstark.netlify.app/](https://livstark.netlify.app/)
+- 📝 Check out some of my work at [https://livstark.netlify.app/](https://livstark.netlify.app/) or right here on github
 
 - 🧠 Ask me about **my background in physiology and neurobiology**
 
